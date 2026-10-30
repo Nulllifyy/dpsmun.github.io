@@ -1,8 +1,7 @@
-# DPS Mohali MUN 2026 Landing Page (Personal Project)
+# [DPS Mohali MUN 2026 website (Personal Project)](https://dpsmun.github.io)
 
-> A personal project for the DPS Mohali Model United Nations 2026 website. **Not official yet.**
-
-## [Hosted Website](https://dpsmun.github.io)
+> A website for the DPS Mohali Model United Nations 2026
+> Hosted Website - https://dpsmun.github.io
 
 ## Demo
 
